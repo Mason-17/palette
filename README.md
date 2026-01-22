@@ -1,4 +1,4 @@
-# palette
+# Palette
 
 <p align = "center">
     <img src="screenshots/palette_256.png"/>
