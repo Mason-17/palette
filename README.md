@@ -1,6 +1,10 @@
 # palette
 
+![Logo](screenshots/palette_256.png)
+
 A color management app for desktop. Easily manage your color palettes for graphic design, art, and more.
+
+![Home Screen](screenshots/Screenshot%202026-01-21%20225911.png)
 
 ## Features
 
@@ -29,6 +33,7 @@ flutter  run -d windows
 
 ## Built with:
 - [Flutter](https://flutter.dev/) - UI
+- [Freepik](https://freepik.com/) - Icon(s)
 
 ## License
 
