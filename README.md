@@ -1,6 +1,8 @@
 # palette
 
-![Logo](screenshots/palette_256.png)
+<p align = "center">
+    <img src="screenshots/palette_256.png"/>
+</p>
 
 A color management app for desktop. Easily manage your color palettes for graphic design, art, and more.
 
